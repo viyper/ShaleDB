@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ShaleSerialization:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ShaleSerialization</output-path>
+    <root id="archive" name="ShaleSerialization_jar.jar">
+      <element id="module-output" name="ShaleSerialization" />
+    </root>
+  </artifact>
+</component>
